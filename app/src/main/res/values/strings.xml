@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GSON</string>
+    <string name="link">https://api.flickr.com/services/rest/?method=flickr.photos.search&amp;api_key=ff49fcd4d4a08aa6aafb6ea3de826464&amp;tags=cat&amp;format=json&amp;amp;nojsoncallback=1</string>
+    <string name="button_name">Get via HTTP</string>
+</resources>
